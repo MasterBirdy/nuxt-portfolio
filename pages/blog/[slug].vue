@@ -12,7 +12,7 @@ const { data: post } = await useAsyncData(`blog-${slug}`, () => {
 
 <template>
     <ContentRenderer
-        class="prose mt-10 w-full lg:mx-auto text-sm md:text-lg prose-h1:text-3xl prose-h1:mb-8 prose-h1:font-bold prose-h1:text-center prose-h2:mt-6"
+        class="prose mt-12 w-full lg:mx-auto text-sm md:text-lg prose-h1:text-3xl prose-h1:mb-8 prose-h1:font-bold prose-h1:text-center prose-h2:mt-6 prose-a:text-sky-700"
         tag="main"
         :value="post"
     />

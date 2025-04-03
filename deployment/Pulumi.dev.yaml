@@ -1,0 +1,3 @@
+config:
+  aws:region: us-west-1
+  nuxt-portfolio:certificateArn: arn:aws:acm:us-east-1:235704522731:certificate/db7316db-dabc-4a94-9f87-8de3aebfb6c9
