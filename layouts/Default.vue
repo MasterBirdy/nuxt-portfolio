@@ -5,7 +5,7 @@
         <h1 class="text-4xl font-bold">Matthew Ito</h1>
         <LinkNavigation />
         <p class="mt-5 text-gray-700">
-            Software developer, husband, soon to be father. 👶
+            Software developer, husband, father. 👶
         </p>
         <slot />
     </div>
